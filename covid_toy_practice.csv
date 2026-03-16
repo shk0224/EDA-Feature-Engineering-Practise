@@ -1,0 +1,13 @@
+gender,fever,cough,city,age,has_covid
+Male,103,Mild,Dhaka,35.0,Yes
+Female,101,Strong,Chittagong,42.0,Yes
+Female,98,Mild,Dhaka,23.0,No
+Male,100,Strong,Khulna,51.0,Yes
+Female,99,Mild,Rajshahi,,No
+Male,104,Strong,Dhaka,60.0,Yes
+Female,97,Mild,Sylhet,29.0,No
+Male,102,Strong,Khulna,,Yes
+Female,99,Mild,Dhaka,31.0,No
+Male,100,Strong,Rajshahi,47.0,Yes
+Female,98,Mild,Chittagong,26.0,No
+Male,101,Strong,Sylhet,55.0,Yes
